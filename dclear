@@ -1,0 +1,134 @@
+[33mcommit bdfa6349e6a48650179df357360b6b0139a7631e[m[33m ([m[1;36mHEAD -> [m[1;32mtest3[m[33m)[m
+Merge: 72065bb f084ae8
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 19:46:53 2023 +0530
+
+    conflict resolved
+
+[33mcommit 72065bb676a999acabc82a036252e171a933ccd3[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 19:43:22 2023 +0530
+
+    abc.text changed
+
+[33mcommit f084ae878dede21aec0b1282ef0555d5fd3df0ea[m
+Author: rohitkhandagale <112310472+rohitkhandagale@users.noreply.github.com>
+Date:   Wed Jun 28 19:41:40 2023 +0530
+
+    Update abc.text
+
+[33mcommit ac1d50453983af869917010fc47173f3c629c5c6[m
+Merge: 575d1b7 6ee9c66
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 19:40:23 2023 +0530
+
+    changes done
+
+[33mcommit 575d1b72aada43c22a23704cbd683f170de703dc[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 19:37:33 2023 +0530
+
+    changes added
+
+[33mcommit 6ee9c66b85b01819ca2a766063cb71c088e7360d[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: b5a978b 420e1d0
+Author: rohitkhandagale <112310472+rohitkhandagale@users.noreply.github.com>
+Date:   Wed Jun 28 19:36:43 2023 +0530
+
+    Merge pull request #1 from rohitkhandagale/test3
+    
+    text files added
+
+[33mcommit 420e1d039bc46fa6d55259b572bd00d08cb4feb3[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 19:32:57 2023 +0530
+
+    text files added
+
+[33mcommit b5a978b2f7310a01623c19126601b71f86955703[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 4b4f3a7 e1bef4c
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 19:10:05 2023 +0530
+
+    master commit
+
+[33mcommit 4b4f3a7fc8ceceffe81d21eb9a67b5540abf3c07[m
+Merge: d478067 41d0974
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 18:58:32 2023 +0530
+
+    Merge branch 'master' of https://github.com/rohitkhandagale/API-Automation
+
+[33mcommit e1bef4cf17eef611f12a4c92247a1186160d7f5d[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 18:58:09 2023 +0530
+
+    test3 changes made
+
+[33mcommit 41d0974ddc605403cb224aa406e4d42cfcabb751[m
+Author: rohitkhandagale <112310472+rohitkhandagale@users.noreply.github.com>
+Date:   Wed Jun 28 18:53:56 2023 +0530
+
+    Create TEst2
+
+[33mcommit e47dd3f65a175bf05b254849f888e1203a641c4d[m[33m ([m[1;32mtest2[m[33m)[m
+Merge: 0482a17 067cf70
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 18:48:59 2023 +0530
+
+    Merge branch 'master' of https://github.com/rohitkhandagale/API-Automation into test2
+
+[33mcommit d4780670234e75b34c112678317be4b9bee189ce[m
+Merge: 228a8ba 067cf70
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 18:48:25 2023 +0530
+
+    Merge branch 'master' of https://github.com/rohitkhandagale/API-Automation
+
+[33mcommit 0482a1777c23711260b05711d4e932f0295bbbc3[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 18:47:45 2023 +0530
+
+    new changes made to test2
+
+[33mcommit 067cf70281dd3d8e9b79b7eba1cdb9780f3c278c[m
+Author: rohitkhandagale <112310472+rohitkhandagale@users.noreply.github.com>
+Date:   Wed Jun 28 18:47:10 2023 +0530
+
+    Create TEst file
+
+[33mcommit 228a8ba961f66955e9193e018b7337cb0396570d[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 17:39:22 2023 +0530
+
+    master branch changes
+
+[33mcommit 6300f95de85eaae3215a21c0bf88c2711b32a879[m[33m ([m[1;31morigin/test2[m[33m, [m[1;32mtest[m[33m)[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 17:28:05 2023 +0530
+
+    test changes1
+
+[33mcommit 2818566af372da30076af6e369014ee14bb3ac8a[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 17:17:36 2023 +0530
+
+    test branch changes
+
+[33mcommit d6627320af25be31f4906b4e7310158959bbec94[m
+Author: rohitkhandagale <112310472+rohitkhandagale@users.noreply.github.com>
+Date:   Wed Jun 28 16:56:37 2023 +0530
+
+    Create README.md
+
+[33mcommit 4ac952756dec0d5b7b9b537169596ed546dab1e5[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 16:50:33 2023 +0530
+
+    new changes
+
+[33mcommit 3207dcab45c67f2beeb4ea218b500fafe4d3349e[m
+Author: unknown <bip677@gmail.com>
+Date:   Wed Jun 28 16:09:26 2023 +0530
+
+    API Framework

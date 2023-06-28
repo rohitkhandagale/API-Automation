@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 src/test/java/syne/API/APITest1.java
         modified:   src/test/java/syne/API/AppTest.java
 sdasda
@@ -6,3 +7,10 @@ asdasd
 =======
 testabcc
 >>>>>>> f084ae878dede21aec0b1282ef0555d5fd3df0ea
+=======
+testabcc
+
+
+
+need to see that conflict
+>>>>>>> 44e329c67890fc48bbff7b74f14664620e8ed0e5
