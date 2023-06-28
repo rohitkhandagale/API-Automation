@@ -49,7 +49,7 @@ public class APITest1 {
 			if (lat == longi)
 				System.out.println("both are equal----------------------------------------------------------------");
 
-			System.out.println();
+			System.out.println("-----");
 		}
 
 	}

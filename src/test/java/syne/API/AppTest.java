@@ -22,5 +22,6 @@ public class AppTest
         
         
       System.out.println("made changes");
+      System.out.println("made changes");
     }
 }
