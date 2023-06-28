@@ -21,6 +21,7 @@ public class AppTest
         String y2k="abc";
         
         int a;
+        String test="test string";
       
     }
 }
