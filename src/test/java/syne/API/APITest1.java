@@ -1,6 +1,7 @@
 package syne.API;
 
 import org.apache.commons.io.FileUtils;
+import org.json.JSONObject;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -18,6 +19,7 @@ public class APITest1 {
 	public void test1() throws IOException {
 
 		// File newFile = new File("");
+		// File newFile = new File("");
 		// String json = FileUtils.readFileToString(newFile, "UTF-8");
 
 		// JsonParser jparse = new JsonParser().parse(json);
@@ -27,6 +29,7 @@ public class APITest1 {
 		Response resp2 = given().when().get(
 				"https://raw.githubusercontent.com/eesur/country-codes-lat-long/master/country-codes-lat-long-alpha3.json");
 
+		JSONObject obj= new JSONObject();
 		
 		
 		

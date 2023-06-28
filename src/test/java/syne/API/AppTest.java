@@ -16,5 +16,11 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        
+        System.out.println();
+        String y2k="abc";
+        
+        
+      System.out.println("made changes");
     }
 }
