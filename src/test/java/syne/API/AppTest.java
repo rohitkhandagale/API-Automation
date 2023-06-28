@@ -20,8 +20,13 @@ public class AppTest
         System.out.println();
         String y2k="abc";
         
+<<<<<<< HEAD
         
       System.out.println("made changes");
       System.out.println("made changes");
+=======
+        int a;
+      
+>>>>>>> test3
     }
 }
