@@ -20,7 +20,7 @@ public class AppTest
         System.out.println();
         String y2k="abc";
         
-        
+        int a;
       
     }
 }
