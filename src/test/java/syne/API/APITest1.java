@@ -29,7 +29,7 @@ public class APITest1 {
 		Response resp2 = given().when().get(
 				"https://raw.githubusercontent.com/eesur/country-codes-lat-long/master/country-codes-lat-long-alpha3.json");
 
-		JSONObject obj= new JSONObject();
+	//	JSONObject obj= new JSONObject();
 		
 		
 		
